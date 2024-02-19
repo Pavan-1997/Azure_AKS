@@ -1,6 +1,6 @@
 # Azure_AKS
 
-1. Goto portal.azure.com opne the AKS
+1. Goto `portal.azure.com` open the AKS
 
 
 2. Click on Create Kubernetes cluster -> 
