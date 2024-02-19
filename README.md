@@ -14,12 +14,20 @@
     Click on Review + Create
 
 
-3. Open the terminal 
+3. Open the terminal
 
+```
+az login
+```
+```
+az account set --subscription <subscription-id>
+```
+```
 az aks get-credentials --resource-group <resource-group-name> --name <cluster-name>
-
+```
+```
 kubectl config current-context
-
+```
 
 4. Clone the  Repo 
 
