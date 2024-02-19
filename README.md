@@ -9,7 +9,7 @@
     
     Kubernetes cluster name - `three-tier-pavan`
     
-    Availability Zone - Zone1
+    Availability Zone - `Zone1`
     
     Click on Review + Create
 
