@@ -7,7 +7,7 @@
 
 Create a new Resource group 
 
-Kubernetes cluster name - three-tier
+Kubernetes cluster name - `three-tier-pavan`
 
 Availability Zone - Zone1
 
