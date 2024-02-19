@@ -5,13 +5,13 @@
 
 2. Click on Create Kubernetes cluster -> 
 
-Create a new Resource group 
-
-Kubernetes cluster name - `three-tier-pavan`
-
-Availability Zone - Zone1
-
-Click on Review + Create
+    Create a new Resource group 
+    
+    Kubernetes cluster name - `three-tier-pavan`
+    
+    Availability Zone - Zone1
+    
+    Click on Review + Create
 
 
 3. Open the terminal 
