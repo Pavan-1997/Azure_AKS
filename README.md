@@ -50,7 +50,11 @@ In the created Kubernetes cluster -> Goto Networking on the left -> Enable the i
 
 ```
 kubectl apply -f ingress.yaml -n robot-shop
-
+```
+```
 kubectl get pods -n kube-system
-
+```
+```
 kubectl get ing -n robot-shop
+```
+
