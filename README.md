@@ -60,7 +60,7 @@ kubectl get svc --namespace robot-shop
 
 6. Enable Ingress Controller 
 
-In the created Kubernetes cluster -> Goto Networking on the left -> Enable the ingress controller -> Click on Apply 
+    In the created Kubernetes cluster -> Goto Networking on the left -> Enable the ingress controller -> Click on Apply 
 
 ![ingress-enable](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/69136eec-948f-4913-b895-d9d75475ae4b)
 
