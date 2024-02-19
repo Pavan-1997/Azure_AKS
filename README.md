@@ -45,6 +45,8 @@ helm install robot-shop --namespace robot-shop .
 
 5. Access app from the LB created
 
+![app-lb](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/163b58ef-5041-4c7c-944f-b5a6e6557a2f)
+
 
 6. Enable Ingress Controller 
 
