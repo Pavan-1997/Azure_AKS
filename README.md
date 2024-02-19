@@ -67,10 +67,12 @@ kubectl get svc --namespace robot-shop
 ```
 kubectl apply -f ingress.yaml -n robot-shop
 ```
-```
-kubectl get pods -n kube-system
-```
+
+![ingress-svc](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/0c07bbf8-3ca9-482b-98d3-b66aed294905)
+
 ```
 kubectl get ing -n robot-shop
 ```
+
+![ingress-ip](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/7cf5cd33-d90b-4f2b-b5bb-90dd0c0a73b5)
 
