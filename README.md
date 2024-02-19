@@ -52,7 +52,7 @@ kubectl get pods --namespace robot-shop
 
 ```
 kubectl get svc --namespace robot-shop
-``
+```
 ![app-lb](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/163b58ef-5041-4c7c-944f-b5a6e6557a2f)
 
 
