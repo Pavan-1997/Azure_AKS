@@ -29,24 +29,26 @@ az aks get-credentials --resource-group <resource-group-name> --name <cluster-na
 kubectl config current-context
 ```
 
-4. Clone the  Repo 
+4. Clone the current repo Repo 
 
-cd AKS/helm
-
+```
+cd three-tier-architecture-demo/AKS/helm
+```
+```
 kubectl create ns robot-shop
-
+```
+```
 helm install robot-shop --namespace robot-shop .
+```
+
+5. Access app from the LB created
 
 
-kubectl get storageclass
-
-kubectl get pods 
-
-
-5. Enable Ingress Controller 
+6. Enable Ingress Controller 
 
 In the created Kubernetes cluster -> Goto Networking on the left -> Enable the ingress controller -> Click on Apply 
 
+```
 kubectl apply -f ingress.yaml -n robot-shop
 
 kubectl get pods -n kube-system
