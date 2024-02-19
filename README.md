@@ -13,6 +13,8 @@
     
     Click on Review + Create
 
+![aks](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/bbaf8d05-671e-4779-9ed3-dbb9bc694efb)
+
 
 3. Open the terminal
 
