@@ -42,6 +42,11 @@ kubectl create ns robot-shop
 ```
 helm install robot-shop --namespace robot-shop .
 ```
+```
+kubectl create ns robot-shop
+```
+![get-pods](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/119e9c01-9842-4dd7-82a9-1885959afd60)
+
 
 5. Access app from the LB created
 
