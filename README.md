@@ -76,3 +76,7 @@ kubectl get ing -n robot-shop
 
 ![ingress-ip](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/7cf5cd33-d90b-4f2b-b5bb-90dd0c0a73b5)
 
+    Accessing app from Ingress IP 
+
+![app-lb](https://github.com/Pavan-1997/Azure_AKS/assets/32020205/f2011604-63d3-49d7-a951-0fa440a1f617)
+
